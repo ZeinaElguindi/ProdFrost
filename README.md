@@ -1,2 +1,2 @@
 # ProdFrost
-UW ProdCon Presentation
+University of Waterloo Product Management Competition Presentation
